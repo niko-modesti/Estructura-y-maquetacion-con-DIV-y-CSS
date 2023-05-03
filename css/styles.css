@@ -1,0 +1,75 @@
+*{margin: 0;padding: 0;}
+
+#contenedor
+    {
+    width: 1200px;
+    height: 1000px;
+    background-color: rgb(163, 163, 113);
+    margin: 0.5em auto;
+    padding: 0.5em;
+    }
+
+#header
+    {
+        height: 15%;
+        background-color: aqua;
+        border-radius: 1em;
+        margin: 1em;
+        text-align: center;
+    }
+
+#nav
+    {
+        height: 10%;
+        background-color: rgb(3, 92, 92);
+        border-radius: 1em;
+        margin: 1em;
+        text-align: center;
+    }
+
+#contenido
+    {
+        height: 52%;
+        background-color: rgb(255, 255, 255);
+        margin: 1em;
+    }
+
+#footer
+    {
+        height: 15%;
+        background-color: rgb(255, 0, 200);
+        border-radius: 1em;
+        margin: 1em;
+        text-align: center;
+    }
+
+#section
+    {
+        height: 100%;
+        width: 68%;
+        background-color: rgb(255, 166, 0);
+        border-radius: 1em;
+        text-align: center;
+        float: left;
+        margin-left: 0.5em;
+    }
+
+#aside
+    {
+        height: 100%;
+        width: 28%;
+        background-color: rgb(126, 247, 70);
+        border-radius: 1em;
+        text-align: center;
+        float: right;
+        margin-right: 0.5em;
+    }
+
+.articulo
+    {
+        width: 97%;
+        height: 20%;
+        background-color: blue;
+        margin: 1em;
+        border-radius: 1em;
+    }
